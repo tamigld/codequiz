@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658497936827",
+    "project_id": "codequiz-e0215",
+    "storage_bucket": "codequiz-e0215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658497936827:android:6e4a54d8d2635e8332789e",
+        "android_client_info": {
+          "package_name": "com.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeeNiLrR1ZUxsKXPiTyGNFkd7v0AuvlME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
